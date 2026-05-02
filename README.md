@@ -147,12 +147,4 @@ employee-time-tracker/
 
 ##  License
 
-This project is for educational and demonstration purposes.
-
----
-
-If you want, I can:
-
-* Customize this with your **GitHub username and repo name**
-* Add a **Cool Care / healthcare angle**
-* Or convert this into a **portfolio-ready project description** 👍
+This project is for educational and demonstration purposes
