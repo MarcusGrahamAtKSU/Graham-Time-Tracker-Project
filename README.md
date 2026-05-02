@@ -94,8 +94,6 @@ Total Occurrences: 2
 Status: Attendance within acceptable range
 ```
 
----
-
 ##  Project Structure
 
 ```text
@@ -104,8 +102,6 @@ employee-time-tracker/
 │── README.md
 │── weekly_attendance_report.txt (optional output file)
 ```
-
----
 
 ##  Key Concepts Demonstrated
 
@@ -119,7 +115,6 @@ employee-time-tracker/
 * Structured data storage and reporting
 * Basic business rule implementation
 
----
 
 ##  Limitations
 
@@ -127,7 +122,6 @@ employee-time-tracker/
 * No database storage (data resets each run)
 * Simplified attendance policies
 
----
 
 ##  Future Enhancements
 
@@ -137,13 +131,12 @@ employee-time-tracker/
 * Add **real-time clock tracking**
 * Implement **advanced HR policies**
 
----
 
 ##  Author
 
 **Marcus Graham**
 
----
+
 
 ##  License
 
